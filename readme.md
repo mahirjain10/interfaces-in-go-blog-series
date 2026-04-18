@@ -1,6 +1,3 @@
-Here's the README:
-
-```markdown
 # Interfaces in Go - Part 1
 
 A beginner-friendly introduction to interfaces in Go, covering the core concepts,
@@ -64,4 +61,3 @@ This is Part 1 of the Interfaces in Go series. Upcoming parts will cover:
 
 - Writing tests using interfaces
 - Swapping database clients using interfaces
-```
