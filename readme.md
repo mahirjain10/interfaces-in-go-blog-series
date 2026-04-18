@@ -13,7 +13,7 @@ type assertions, and interface composition with practical code examples.
 The full article with detailed explanations is available on:
 
 - X Article: [Interfaces in Go](https://x.com)
-- Portfolio Blog: [Interfaces in Go](https://yoursite.com)
+- Portfolio Blog: [Interfaces in Go](https://mahirjain.com)
 
 ---
 
